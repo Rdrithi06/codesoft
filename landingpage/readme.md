@@ -1,1 +1,3 @@
-
+A landing page presents an excellent starting point for budding web developers. With a foundation in HTML and CSS, this project guides you through crafting columns, section divisions, item arrangement, and the addition of headers and footers. The key lies in unleashing your creativity to fashion an impressive page. Attention to detail in alignments, padding, color schemes, boxes, and other elements is crucial. Mindful CSS application prevents element overlap. In essence, a landing page project empowers you to apply HTML and CSS skills, fostering creativity to deliver visually captivating and user-friendly designs.
+Link: https://rdrithi06.github.io/c/ 
+ Tech Stack: HTML, CSS
