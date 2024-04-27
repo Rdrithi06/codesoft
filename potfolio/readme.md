@@ -1,1 +1,3 @@
+Header: Begin with your name or a logo followed by a brief introduction or tagline. About Section: Introduce yourself with an image. Write a concise bio spotlighting your skills and experience. Skills Section: Enumerate your primary skills or areas of expertise. Projects Section: Display examples of your work or projects. Each entry should feature a title, description, and images. Resume Section: Include a link to download your resume in PDF format. Contact Section: Provide your contact information, such as email address and phone number. Footer: Conclude with a copyright notice and any extra links or information.
+Link:https://rdrithi06.github.io/p/ 
 
