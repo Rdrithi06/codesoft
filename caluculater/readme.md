@@ -1,1 +1,3 @@
-
+ To craft a fundamental calculator using CSS, HTML, and JavaScript, you'll create an interface with buttons for addition, subtraction, multiplication, and division operations. The calculator will feature a display screen to showcase user input and results. CSS grid system will aid in aligning the buttons neatly. Implement event listeners, if-else statements, operators, and loops to manage user input and execute calculations. While this project demands some proficiency, it's feasible with a basic understanding of these technologies.
+Link:  https://rdrithi06.github.io/l/
+Tech Stack: HTML, CSS
